@@ -1,4 +1,4 @@
-### ETL with MySQL, PostgreSQL, and Bash
+##### ETL with MySQL, PostgreSQL, and Bash
 ## Assignment overview
 You need to keep data synchronized between different databases/data warehouses as a part of your daily routine. One task that is routinely performed is the sync up of the transactional database and staging data warehouse. Automating this sync-up will save you time and standardize your process.
 
