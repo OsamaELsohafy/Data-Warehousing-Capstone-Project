@@ -2,7 +2,7 @@
 
 
 
-![dw_architecture]()
+![dw_architecture](https://github.com/OsamaELsohafy/Data-Warehousing-Capstone-Project/blob/main/dw_architecture.png)
 
 
 ## Environment:
